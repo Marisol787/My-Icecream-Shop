@@ -1,0 +1,31 @@
+OrderItemID,ProductID,Toppings,ConeType,CupSize,Flavors,Scoops,Quantity
+1,1,Sprinkles,Waffle,N/A,Vanilla,2,1
+2,2,Chocolate Chips,Sugar,N/A,Chocolate,1,2
+3,3,Whipped Cream,Waffle,N/A,Strawberry,2,1
+4,1,Caramel Drizzle,Cake,N/A,Vanilla,1,1
+5,2,Nuts,Sugar,N/A,Chocolate,2,2
+6,3,Sprinkles,Waffle,N/A,Strawberry,3,1
+7,1,Chocolate Syrup,Cake,N/A,Vanilla,2,1
+8,2,Whipped Cream,Sugar,N/A,Chocolate,1,3
+9,3,Caramel Drizzle,Waffle,N/A,Strawberry,2,2
+10,1,Nuts,Waffle,N/A,Vanilla,1,1
+11,2,Sprinkles,Sugar,N/A,Chocolate,2,2
+12,3,Whipped Cream,Cake,N/A,Strawberry,3,1
+13,1,Caramel Drizzle,Waffle,N/A,Vanilla,2,2
+14,2,Chocolate Chips,Sugar,N/A,Chocolate,1,1
+15,3,Nuts,N/A,Medium,Strawberry,2,1
+16,1,Sprinkles,N/A,Small,Vanilla,3,1
+17,2,Caramel Drizzle,N/A,Single,Chocolate,2,2
+18,3,Whipped Cream,N/A,Medium,Strawberry,1,3
+19,1,Chocolate Syrup,N/A,Small,Vanilla,2,1
+20,2,Nuts,N/A,Single,Chocolate,2,1
+21,3,Sprinkles,N/A,Medium,Strawberry,3,2
+22,1,Whipped Cream,N/A,Small,Vanilla,1,1
+23,2,Chocolate Chips,N/A,Single,Chocolate,2,2
+24,3,Caramel Drizzle,N/A,Medium,Strawberry,2,1
+25,1,Nuts,N/A,Small,Vanilla,1,2
+26,2,Sprinkles,N/A,Single,Chocolate,3,1
+27,3,Whipped Cream,N/A,Medium,Strawberry,2,2
+28,1,Caramel Drizzle,N/A,Small,Vanilla,2,1
+29,2,Chocolate Syrup,N/A,Single,Chocolate,1,3
+30,3,Nuts,N/A,Medium,Strawberry,2,1
