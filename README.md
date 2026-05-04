@@ -1,0 +1,3 @@
+Ice Cream Shop Repository
+
+This repository is an ice cream shop database using structured CSV files. It includes products, employees, customers, orders, and inventory data to show basic data organization and repository design.e
