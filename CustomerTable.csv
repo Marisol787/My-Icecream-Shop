@@ -1,0 +1,31 @@
+CustomerID,FullName,Email,PhoneNumber,Rewards,Language,FavoriteItem
+101,Alice Johnson,alice.j@email.com,2145551001,120,English,Vanilla Cone
+102,Brian Smith,brian.s@email.com,2145551002,85,English,Chocolate Scoop
+103,Carla Gomez,carla.g@email.com,2145551003,240,Spanish,Strawberry Sundae
+104,David Lee,david.l@email.com,2145551004,310,English,Mint Chip Scoop
+105,Emma Brown,emma.b@email.com,2145551005,150,English,Cookies & Cream
+106,Frank Wilson,frank.w@email.com,2145551006,60,Spanish,Chocolate Sundae
+107,Grace Kim,grace.k@email.com,2145551007,500,English,Vanilla Milkshake
+108,Henry Davis,henry.d@email.com,2145551008,90,English,Strawberry Cone
+109,Irene Patel,irene.p@email.com,2145551009,200,Spanish,Mango Sorbet
+110,Jack Miller,jack.m@email.com,2145551010,75,English,Chocolate Cone
+111,Karen White,karen.w@email.com,2145551011,130,Spanish,Caramel Sundae
+112,Liam Harris,liam.h@email.com,2145551012,95,English,Rocky Road Scoop
+113,Mia Clark,mia.c@email.com,2145551013,220,English,Banana Split
+114,Noah Lewis,noah.l@email.com,2145551014,410,Spanish,Vanilla Sundae
+115,Olivia Martin,olivia.m@email.com,2145551015,175,English,Chocolate Milkshake
+116,Paul Walker,paul.w@email.com,2145551016,65,Spanish,Strawberry Scoop
+117,Queenie Adams,queenie.a@email.com,2145551017,300,English,Oreo Blizzard
+118,Ryan Scott,ryan.s@email.com,2145551018,110,Spanish,Mint Cone
+119,Sophia Turner,sophia.t@email.com,2145551019,260,English,Strawberry Milkshake
+120,Tyler Moore,tyler.m@email.com,2145551020,140,Spanish,Chocolate Chip Cone
+121,Uma Khan,uma.k@email.com,2145551021,390,English,Pistachio Scoop
+122,Victor Nguyen,victor.n@email.com,2145551022,80,Spanish,Mango Cone
+123,Wendy Carter,wendy.c@email.com,2145551023,210,English,Vanilla Sundae
+124,Xavier Brooks,xavier.b@email.com,2145551024,170,Spanish,Cookies Sundae
+125,Yara Ali,yara.a@email.com,2145551025,450,English,Chocolate Blizzard
+126,Zach Young,zach.y@email.com,2145551026,120,Spanish,Strawberry Cone
+127,Anna Reed,anna.r@email.com,2145551027,330,English,Rocky Road Sundae
+128,Ben Thomas,ben.t@email.com,2145551028,55,Spanish,Vanilla Scoop
+129,Chloe Evans,chloe.e@email.com,2145551029,275,English,Chocolate Waffle Cone
+130,Daniel Scott,daniel.s@email.com,2145551030,190,Spanish,Caramel Milkshake
