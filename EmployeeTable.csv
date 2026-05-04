@@ -1,0 +1,11 @@
+EmployeeID,EmpName,Role,DateHired,Wage,EmpPhone,Pay
+1,Ava Johnson,Manager,1/10/2023 9:00,26,940-111-0001,54000
+2,Liam Smith,Assistant Manager,2/12/2023 9:00,22,940-111-0002,46000
+3,Emma Brown,Shift Lead,3/15/2023 9:00,18.5,940-111-0003,38000
+4,Noah Davis,Cashier,4/20/2023 9:00,15.5,940-111-0004,32000
+5,Olivia Wilson,Cashier,5/11/2023 9:00,15.25,940-111-0005,31500
+6,Mason Taylor,Scooper,6/8/2023 9:00,15.75,940-111-0006,32500
+7,Sophia Anderson,Scooper,7/1/2023 9:00,15.75,940-111-0007,32500
+8,Ethan Thomas,Prep Cook,7/15/2023 9:00,17,940-111-0008,35000
+9,Isabella Martinez,Inventory Clerk,8/10/2023 9:00,16.5,940-111-0009,34000
+10,Lucas Garcia,Cleaner,8/22/2023 9:00,14.5,940-111-0010,30000
